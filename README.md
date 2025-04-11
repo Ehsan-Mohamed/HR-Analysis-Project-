@@ -42,9 +42,13 @@ Statistical analysis: Computing summary statistics and correlations.
 	•	Python (Pandas, Matplotlib, Seaborn, etc.) – For data analysis and visualization.
 	•	Power BI – For interactive dashboards and data presentation.
 	•	Excel & Power Query – For preliminary data processing.
+# Power Bi links
+HR Analysis report: https://app.powerbi.com/links/wPTdcR6Enj?ctid=b97ced59-fd70-450d-98e2-7fde19a6beeb&pbi_source=linkShare&bookmarkGuid=f5341f6d-f282-46df-973c-7b115d176d3b
+HR Analysis Dashboard : https://app.powerbi.com/groups/me/dashboards/334aa06a-f3a8-4398-beb2-4f9ec9ba0e02?ctid=b97ced59-fd70-450d-98e2-7fde19a6beeb&pbi_source=link
+
 
 # Project Contributors
-[Ehsan Mohamed Aboelfetoh]
-[Ahmed Hamdy Ibrahim Khalil]
-[Ahmed Osman Ali]
-[Ehab abd Allah Ali]
+[Ehsan Mohamed Aboelfetoh] /
+[Ahmed Osman Ali] /
+[Ahmed Hamdy Ibrahim Khalil]/ 
+[Ehab abd Allah Ali] 
