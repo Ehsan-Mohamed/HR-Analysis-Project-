@@ -44,7 +44,7 @@ Statistical analysis: Computing summary statistics and correlations.
 	•	Excel & Power Query – For preliminary data processing.
 
 # Project Contributors
-•	[Ehsan Mohamed Aboelfetoh]
-	•	[Ahmed Hamdy Ibrahim Khalil]
-	•	[Ahmed Othman]
-	•	[Ehab abdallah Ali]
+[Ehsan Mohamed Aboelfetoh]
+[Ahmed Hamdy Ibrahim Khalil]
+[Ahmed Osman Ali]
+[Ehab abd Allah Ali]
