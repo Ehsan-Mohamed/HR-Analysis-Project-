@@ -9,6 +9,7 @@ Evaluating employee satisfaction and performance metrics.
 Providing actionable recommendations to HR teams for improving retention, engagement, and productivity.
 
 #  Description of the Database Architecture
+
 The project uses a relational database architecture with CSV files as the primary data source. 
 The data is structured in tabular format, making it easy to process and analyze using Python libraries like pandas.
 
